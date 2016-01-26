@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import re
 
 """
 
@@ -49,7 +50,7 @@ class Route(object):
     @staticmethod
     def is_valid_route(route):
         # Checks dict values for matching string
-        return route in Route.ROUTES
+        return any(r for r in Route.ROUTES if route.lower() in r.lower())
 
     @staticmethod
     def return_route_id(route):
@@ -76,7 +77,7 @@ class MBTA(object):
             raise ValueError('[%s] is not a valid query format. Valid formats include %s' %
                              (self.format, self.FORMATS))
 
-        if self.direction not in self.DIRECTIONS:
+        if not any(d for d in self.DIRECTIONS if self.direction.lower() in self.DIRECTIONS):
             raise ValueError('[%s] is not a valid direction. Valid directions include %s' %
                              (self.direction, self.DIRECTIONS))
 
@@ -127,7 +128,7 @@ class PurpleLine(MBTA):
         directions = self.response['direction']
 
         for direction in directions:
-            if direction['direction_name'].lower() == self.direction:
+            if direction['direction_name'].lower() == self.direction.lower():
                 lat = direction['trip'][0]['vehicle']['vehicle_lat']
                 lon = direction['trip'][0]['vehicle']['vehicle_lon']
 
@@ -153,5 +154,5 @@ class BlueLine(MBTA):
 
 if __name__ == '__main__':
     p = PurpleLine(
-        query_type='vehiclesbyroute', direction='outbound', route='Lowell')
+        query_type='vehiclesbyroute', direction='oUtbound', route='Lowell')
     print p.return_locations()
