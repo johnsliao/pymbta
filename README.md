@@ -38,6 +38,9 @@ b.return_locations()
 
 `[[u'42.3579063415527', u'-71.0928802490234'], [u'42.3404960632324', u'-71.0815887451172']]`
 
+### Routes List
+Use route_short_name as `route` parameter from [routes.txt](extra/routes.txt). Input is case sensitive (sorry)
+
 ## Additional Info
 MBTA GTFS files available [here](http://www.mbta.com/uploadedfiles/MBTA_GTFS.zip)
     
