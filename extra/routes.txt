@@ -1,0 +1,217 @@
+"route_id","agency_id","route_short_name","route_long_name","route_desc","route_type","route_url","route_color","route_text_color","route_sort_order"
+"Blue","1",,"Blue Line","Rapid Transit",1,,"2F5DA6","FFFFFF",1
+"Green-B","1","B","Green Line B","Rapid Transit",0,,"427B1D","FFFFFF",2
+"Green-C","1","C","Green Line C","Rapid Transit",0,,"427B1D","FFFFFF",3
+"Green-D","1","D","Green Line D","Rapid Transit",0,,"427B1D","FFFFFF",4
+"Green-E","1","E","Green Line E","Rapid Transit",0,,"427B1D","FFFFFF",5
+"Orange","1",,"Orange Line","Rapid Transit",1,,"E87200","FFFFFF",6
+"Red","1",,"Red Line","Rapid Transit",1,,"E12D27","FFFFFF",7
+"Mattapan","1",,"Mattapan Trolley","Rapid Transit",0,,"E12D27","FFFFFF",8
+"741","1","SL1","Silver Line SL1","Rapid Transit",3,,"555555","FFFFFF",9
+"742","1","SL2","Silver Line SL2","Rapid Transit",3,,"555555","FFFFFF",10
+"751","1","SL4","Silver Line SL4","Rapid Transit",3,,"555555","FFFFFF",11
+"749","1","SL5","Silver Line SL5","Rapid Transit",3,,"555555","FFFFFF",12
+"746","1",,"Silver Line Waterfront","Rapid Transit",3,,"555555","FFFFFF",13
+"701","1","CT1",,"Local Bus",3,,"FFFF7C","000000",81
+"747","1","CT2",,"Local Bus",3,,"FFFF7C","000000",82
+"708","1","CT3",,"Local Bus",3,,"FFFF7C","000000",83
+"1","1","1",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",100
+"4","1","4",,"Limited Service",3,,"FFFF7C","000000",400
+"5","1","5",,"Limited Service",3,,"FFFF7C","000000",500
+"7","1","7",,"Local Bus",3,,"FFFF7C","000000",700
+"8","1","8",,"Local Bus",3,,"FFFF7C","000000",800
+"9","1","9",,"Local Bus",3,,"FFFF7C","000000",900
+"10","1","10",,"Local Bus",3,,"FFFF7C","000000",1000
+"11","1","11",,"Local Bus",3,,"FFFF7C","000000",1100
+"14","1","14",,"Local Bus",3,,"FFFF7C","000000",1400
+"15","1","15",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",1500
+"16","1","16",,"Local Bus",3,,"FFFF7C","000000",1600
+"17","1","17",,"Local Bus",3,,"FFFF7C","000000",1700
+"18","1","18",,"Local Bus",3,,"FFFF7C","000000",1800
+"19","1","19",,"Local Bus",3,,"FFFF7C","000000",1900
+"21","1","21",,"Local Bus",3,,"FFFF7C","000000",2100
+"22","1","22",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",2200
+"23","1","23",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",2300
+"24","1","24",,"Local Bus",3,,"FFFF7C","000000",2400
+"2427","1","24/27",,"Limited Service",3,,"FFFF7C","000000",2401
+"26","1","26",,"Local Bus",3,,"FFFF7C","000000",2600
+"27","1","27",,"Local Bus",3,,"FFFF7C","000000",2700
+"28","1","28",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",2800
+"29","1","29",,"Local Bus",3,,"FFFF7C","000000",2900
+"30","1","30",,"Local Bus",3,,"FFFF7C","000000",3000
+"31","1","31",,"Local Bus",3,,"FFFF7C","000000",3100
+"32","1","32",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",3200
+"3233","1","32/33",,"Limited Service",3,,"FFFF7C","000000",3201
+"33","1","33",,"Local Bus",3,,"FFFF7C","000000",3300
+"34","1","34",,"Local Bus",3,,"FFFF7C","000000",3400
+"34E","1","34E",,"Local Bus",3,,"FFFF7C","000000",3401
+"35","1","35",,"Local Bus",3,,"FFFF7C","000000",3500
+"36","1","36",,"Local Bus",3,,"FFFF7C","000000",3600
+"37","1","37",,"Local Bus",3,,"FFFF7C","000000",3700
+"3738","1","37/38",,"Limited Service",3,,"FFFF7C","000000",3701
+"38","1","38",,"Local Bus",3,,"FFFF7C","000000",3800
+"39","1","39",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",3900
+"40","1","40",,"Local Bus",3,,"FFFF7C","000000",4000
+"4050","1","40/50",,"Limited Service",3,,"FFFF7C","000000",4001
+"41","1","41",,"Local Bus",3,,"FFFF7C","000000",4100
+"42","1","42",,"Local Bus",3,,"FFFF7C","000000",4200
+"43","1","43",,"Local Bus",3,,"FFFF7C","000000",4300
+"44","1","44",,"Local Bus",3,,"FFFF7C","000000",4400
+"45","1","45",,"Local Bus",3,,"FFFF7C","000000",4500
+"47","1","47",,"Local Bus",3,,"FFFF7C","000000",4700
+"50","1","50",,"Local Bus",3,,"FFFF7C","000000",5000
+"51","1","51",,"Local Bus",3,,"FFFF7C","000000",5100
+"52","1","52",,"Local Bus",3,,"FFFF7C","000000",5200
+"55","1","55",,"Local Bus",3,,"FFFF7C","000000",5500
+"57","1","57",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",5700
+"57A","1","57A",,"Limited Service",3,,"FFFF7C","000000",5701
+"59","1","59",,"Local Bus",3,,"FFFF7C","000000",5900
+"60","1","60",,"Local Bus",3,,"FFFF7C","000000",6000
+"62","1","62",,"Local Bus",3,,"FFFF7C","000000",6200
+"627","1","62/76",,"Limited Service",3,,"FFFF7C","000000",6201
+"64","1","64",,"Local Bus",3,,"FFFF7C","000000",6400
+"65","1","65",,"Local Bus",3,,"FFFF7C","000000",6500
+"66","1","66",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",6600
+"67","1","67",,"Local Bus",3,,"FFFF7C","000000",6700
+"68","1","68",,"Local Bus",3,,"FFFF7C","000000",6800
+"69","1","69",,"Local Bus",3,,"FFFF7C","000000",6900
+"70","1","70",,"Local Bus",3,,"FFFF7C","000000",7000
+"70A","1","70A",,"Local Bus",3,,"FFFF7C","000000",7001
+"71","1","71",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",7100
+"72","1","72",,"Local Bus",3,,"FFFF7C","000000",7200
+"725","1","72/75",,"Limited Service",3,,"FFFF7C","000000",7201
+"73","1","73",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",7300
+"74","1","74",,"Local Bus",3,,"FFFF7C","000000",7400
+"75","1","75",,"Local Bus",3,,"FFFF7C","000000",7500
+"76","1","76",,"Local Bus",3,,"FFFF7C","000000",7600
+"77","1","77",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",7700
+"78","1","78",,"Local Bus",3,,"FFFF7C","000000",7800
+"79","1","79",,"Local Bus",3,,"FFFF7C","000000",7900
+"80","1","80",,"Local Bus",3,,"FFFF7C","000000",8000
+"83","1","83",,"Local Bus",3,,"FFFF7C","000000",8300
+"84","1","84",,"Limited Service",3,,"FFFF7C","000000",8400
+"85","1","85",,"Local Bus",3,,"FFFF7C","000000",8500
+"86","1","86",,"Local Bus",3,,"FFFF7C","000000",8600
+"87","1","87",,"Local Bus",3,,"FFFF7C","000000",8700
+"88","1","88",,"Local Bus",3,,"FFFF7C","000000",8800
+"89","1","89",,"Local Bus",3,,"FFFF7C","000000",8900
+"8993","1","89/93",,"Limited Service",3,,"FFFF7C","000000",8901
+"90","1","90",,"Local Bus",3,,"FFFF7C","000000",9000
+"91","1","91",,"Local Bus",3,,"FFFF7C","000000",9100
+"92","1","92",,"Local Bus",3,,"FFFF7C","000000",9200
+"93","1","93",,"Local Bus",3,,"FFFF7C","000000",9300
+"94","1","94",,"Local Bus",3,,"FFFF7C","000000",9400
+"95","1","95",,"Local Bus",3,,"FFFF7C","000000",9500
+"96","1","96",,"Local Bus",3,,"FFFF7C","000000",9600
+"97","1","97",,"Local Bus",3,,"FFFF7C","000000",9700
+"99","1","99",,"Local Bus",3,,"FFFF7C","000000",9900
+"100","1","100",,"Local Bus",3,,"FFFF7C","000000",10000
+"101","1","101",,"Local Bus",3,,"FFFF7C","000000",10100
+"104","1","104",,"Local Bus",3,,"FFFF7C","000000",10400
+"105","1","105",,"Local Bus",3,,"FFFF7C","000000",10500
+"106","1","106",,"Local Bus",3,,"FFFF7C","000000",10600
+"108","1","108",,"Local Bus",3,,"FFFF7C","000000",10800
+"109","1","109",,"Local Bus",3,,"FFFF7C","000000",10900
+"110","1","110",,"Local Bus",3,,"FFFF7C","000000",11000
+"111","1","111",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",11100
+"112","1","112",,"Local Bus",3,,"FFFF7C","000000",11200
+"114","1","114",,"Limited Service",3,,"FFFF7C","000000",11400
+"116","1","116",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",11600
+"116117","1","116/117",,"Limited Service",3,,"FFFF7C","000000",11601
+"117","1","117",,"Key Bus Route (Frequent Service)",3,,"FFFF7C","000000",11700
+"119","1","119",,"Local Bus",3,,"FFFF7C","000000",11900
+"120","1","120",,"Local Bus",3,,"FFFF7C","000000",12000
+"121","1","121",,"Limited Service",3,,"FFFF7C","000000",12100
+"131","1","131",,"Local Bus",3,,"FFFF7C","000000",13100
+"132","1","132",,"Local Bus",3,,"FFFF7C","000000",13200
+"134","1","134",,"Local Bus",3,,"FFFF7C","000000",13400
+"136","1","136",,"Local Bus",3,,"FFFF7C","000000",13600
+"137","1","137",,"Local Bus",3,,"FFFF7C","000000",13700
+"170","1","170",,"Limited Service",3,,"FFFF7C","000000",17000
+"171","1","171",,"Limited Service",3,,"FFFF7C","000000",17100
+"195","1","195",,"Local Bus",3,,"FFFF7C","000000",19500
+"201","1","201",,"Local Bus",3,,"FFFF7C","000000",20100
+"202","1","202",,"Local Bus",3,,"FFFF7C","000000",20200
+"210","1","210",,"Local Bus",3,,"FFFF7C","000000",21000
+"211","1","211",,"Local Bus",3,,"FFFF7C","000000",21100
+"212","1","212",,"Local Bus",3,,"FFFF7C","000000",21200
+"214","1","214",,"Local Bus",3,,"FFFF7C","000000",21400
+"214216","1","214/216",,"Limited Service",3,,"FFFF7C","000000",21401
+"215","1","215",,"Local Bus",3,,"FFFF7C","000000",21500
+"216","1","216",,"Local Bus",3,,"FFFF7C","000000",21600
+"217","1","217",,"Limited Service",3,,"FFFF7C","000000",21700
+"220","1","220",,"Local Bus",3,,"FFFF7C","000000",22000
+"221","1","221",,"Limited Service",3,,"FFFF7C","000000",22100
+"222","1","222",,"Local Bus",3,,"FFFF7C","000000",22200
+"225","1","225",,"Local Bus",3,,"FFFF7C","000000",22500
+"230","1","230",,"Local Bus",3,,"FFFF7C","000000",23000
+"236","1","236",,"Local Bus",3,,"FFFF7C","000000",23600
+"238","1","238",,"Local Bus",3,,"FFFF7C","000000",23800
+"240","1","240",,"Local Bus",3,,"FFFF7C","000000",24000
+"245","1","245",,"Local Bus",3,,"FFFF7C","000000",24500
+"325","1","325",,"Express Bus",3,,"FFFF7C","000000",32500
+"326","1","326",,"Local Bus",3,,"FFFF7C","000000",32600
+"350","1","350",,"Local Bus",3,,"FFFF7C","000000",35000
+"351","1","351",,"Limited Service",3,,"FFFF7C","000000",35100
+"352","1","352",,"Express Bus",3,,"FFFF7C","000000",35200
+"354","1","354",,"Express Bus",3,,"FFFF7C","000000",35400
+"411","1","411",,"Local Bus",3,,"FFFF7C","000000",41100
+"424","1","424",,"Express Bus",3,,"FFFF7C","000000",42400
+"426","1","426",,"Express Bus",3,,"FFFF7C","000000",42600
+"428","1","428",,"Express Bus",3,,"FFFF7C","000000",42800
+"429","1","429",,"Local Bus",3,,"FFFF7C","000000",42900
+"430","1","430",,"Local Bus",3,,"FFFF7C","000000",43000
+"431","1","431",,"Local Bus",3,,"FFFF7C","000000",43100
+"434","1","434",,"Express Bus",3,,"FFFF7C","000000",43400
+"435","1","435",,"Local Bus",3,,"FFFF7C","000000",43500
+"436","1","436",,"Local Bus",3,,"FFFF7C","000000",43600
+"439","1","439",,"Limited Service",3,,"FFFF7C","000000",43900
+"441","1","441",,"Local Bus",3,,"FFFF7C","000000",44100
+"441442","1","441/442",,"Limited Service",3,,"FFFF7C","000000",44101
+"442","1","442",,"Local Bus",3,,"FFFF7C","000000",44200
+"448","1","448",,"Express Bus",3,,"FFFF7C","000000",44800
+"449","1","449",,"Express Bus",3,,"FFFF7C","000000",44900
+"450","1","450",,"Express Bus",3,,"FFFF7C","000000",45000
+"451","1","451",,"Limited Service",3,,"FFFF7C","000000",45100
+"455","1","455",,"Local Bus",3,,"FFFF7C","000000",45500
+"456","1","456",,"Limited Service",3,,"FFFF7C","000000",45600
+"459","1","459",,"Express Bus",3,,"FFFF7C","000000",45900
+"465","1","465",,"Local Bus",3,,"FFFF7C","000000",46500
+"501","1","501",,"Express Bus",3,,"FFFF7C","000000",50100
+"502","1","502",,"Express Bus",3,,"FFFF7C","000000",50200
+"503","1","503",,"Express Bus",3,,"FFFF7C","000000",50300
+"504","1","504",,"Express Bus",3,,"FFFF7C","000000",50400
+"505","1","505",,"Express Bus",3,,"FFFF7C","000000",50500
+"553","1","553",,"Express Bus",3,,"FFFF7C","000000",55300
+"554","1","554",,"Express Bus",3,,"FFFF7C","000000",55400
+"556","1","556",,"Express Bus",3,,"FFFF7C","000000",55600
+"558","1","558",,"Express Bus",3,,"FFFF7C","000000",55800
+"608","1","608",,"Local Bus",3,,"FFFF7C","000000",60800
+"710","1","710",,"Local Bus",3,,"FFFF7C","000000",71000
+"712","1","712",,"Local Bus",3,,"FFFF7C","000000",71200
+"713","1","713",,"Local Bus",3,,"FFFF7C","000000",71300
+"714","1","714",,"Local Bus",3,,"FFFF7C","000000",71400
+"716","1","716",,"Local Bus",3,,"FFFF7C","000000",71600
+"9701","1","9701",,"Limited Service",3,,"FFFF7C","000000",970100
+"9702","1","9702",,"Limited Service",3,,"FFFF7C","000000",970200
+"9703","1","9703",,"Limited Service",3,,"FFFF7C","000000",970300
+"CR-Fairmount","1","","Fairmount Line","Commuter Rail",2,"","8B118F","FFFFFF",51
+"CR-Fitchburg","1","","Fitchburg Line","Commuter Rail",2,"","8B118F","FFFFFF",52
+"CR-Worcester","1","","Framingham/Worcester Line","Commuter Rail",2,"","8B118F","FFFFFF",62
+"CR-Franklin","1","","Franklin Line","Commuter Rail",2,"","8B118F","FFFFFF",53
+"CR-Greenbush","1","","Greenbush Line","Commuter Rail",2,"","8B118F","FFFFFF",54
+"CR-Haverhill","1","","Haverhill Line","Commuter Rail",2,"","8B118F","FFFFFF",55
+"CR-Lowell","1","","Lowell Line","Commuter Rail",2,"","8B118F","FFFFFF",57
+"CR-Needham","1","","Needham Line","Commuter Rail",2,"","8B118F","FFFFFF",59
+"CR-Newburyport","1","","Newburyport/Rockport Line","Commuter Rail",2,"","8B118F","FFFFFF",60
+"CR-Providence","1","","Providence/Stoughton Line","Commuter Rail",2,"","8B118F","FFFFFF",61
+"CR-Kingston","1",,"Kingston/Plymouth Line","Commuter Rail",2,,"8B118F","FFFFFF",56
+"CR-Middleborough","1",,"Middleborough/Lakeville Line","Commuter Rail",2,,"8B118F","FFFFFF",58
+"Boat-F1","1",,"Hingham Ferry","Ferry",4,,,,1000001
+"Boat-F3","1",,"Hull Ferry","Ferry",4,,,,1000002
+"Boat-F4","1",,"Charlestown Ferry","Ferry",4,,,,1000004
+"Logan-22","2","Shuttle","Massport Subway Shuttle (22)","Airport Shuttle",3,,,,2000022
+"Logan-33","2","Shuttle","Massport Subway Shuttle (33)","Airport Shuttle",3,,,,2000033
+"Logan-55","2","Shuttle","Massport Subway Shuttle (55)","Airport Shuttle",3,,,,2000055
+"Logan-44","2","Shuttle","Massport Ferry Terminal Shuttle (44)","Airport Shuttle",3,,,,2000044
+"Logan-66","2","Shuttle","Massport Subway / Ferry Terminal Shuttle (66)","Airport Shuttle",3,,,,2000066
