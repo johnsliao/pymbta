@@ -7,7 +7,7 @@ setup(
   author = 'John Liao',
   author_email = 'john@johnliao.org',
   url = 'https://github.com/johnsliao/pymbta', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/tarball/0.1', # I'll explain this in a second
+  download_url = 'https://github.com/johnsliao/pymbta/tarball/1.0', # I'll explain this in a second
   keywords = ['mbta', 'pymbta', 'wrapper'], # arbitrary keywords
   classifiers = [],
 )
