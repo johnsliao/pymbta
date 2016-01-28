@@ -32,7 +32,7 @@ r.return_locations()
 #### Bus
 ```
 from pymbta import Bus
-b = bus = Bus(query_type='vehiclesbyroute', direction='outbound', route='1')
+b = Bus(query_type='vehiclesbyroute', direction='outbound', route='1')
 b.return_locations()
 ```
 
