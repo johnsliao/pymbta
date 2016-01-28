@@ -23,7 +23,7 @@ import json
 
 
 __author__ = 'John Liao <john@johnliao.org>'
-__version__ = '1.0'
+__version__ = '1.1'
 
 
 class MBTA(object):
